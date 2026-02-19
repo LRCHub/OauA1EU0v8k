@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "浮遊",
+  "base_artist": "ヒバナ - HIBANA -",
+  "createdAt": "2026-02-19T13:51:22.947969Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "浮遊",
+      "artist": "ヒバナ",
+      "has_synced": false,
+      "path": "select/pl_01_浮遊_ヒバナ.txt"
+    }
+  ]
+}
